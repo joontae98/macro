@@ -33,28 +33,12 @@ public class RobotDemo {
         };
 
         int ID[] = {
-                KeyEvent.VK_K,
-                KeyEvent.VK_J,
-                KeyEvent.VK_O,
-                KeyEvent.VK_O,
-                KeyEvent.VK_N,
-                KeyEvent.VK_T,
-                KeyEvent.VK_A,
-                KeyEvent.VK_E
+                
 
         };
 
         int PW[] = {
-                KeyEvent.VK_W,
-                KeyEvent.VK_N,
-                KeyEvent.VK_S,
-                KeyEvent.VK_X,
-                KeyEvent.VK_O,
-                KeyEvent.VK_1,
-                KeyEvent.VK_5,
-                KeyEvent.VK_3,
-                KeyEvent.VK_2,
-                KeyEvent.VK_4
+                
 
         };
 
